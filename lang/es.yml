@@ -1,0 +1,26 @@
+es:
+  Calendar:
+    OneDay: '$StartDayNameShort, $StartMonthNameShort. $StartDayNumberShort, $StartYearLong'
+    SameMonthSameYear: '$StartMonthNameShort. $StartDayNumberShort - $EndDayNumberShort, $EndYearLong'
+    DiffMonthSameYear: '$StartMonthNameShort. $StartDayNumberShort - $EndMonthNameShort. $EndDayNumberShort, $EndYearLong'
+    DiffMonthDiffYear: '$StartMonthNameShort. $StartDayNumberShort, $StartYearLong - $EndMonthNameShort. $EndDayNumberShort, $EndYearLong'
+    OneDayHeader: '$StartMonthNameLong $StartDayNumberShort$StartDaySuffix, $StartYearLong'
+    MonthHeader: '$StartMonthNameLong, $StartYearLong'
+    YearHeader: '$StartYearLong'
+    QUICKNAVTODAY: Hoy
+    QUICKNAVWEEK: Esta semana
+    QUICKNAVMONTH: Este mes
+    QUICKNAVWEEKEND: Este fin de semana
+    PREVIOUSDAY: Dia anterior
+    NEXTDAY: Dia siguiente
+    PREVIOUSWEEK: Semana anterior
+    NEXTWEEK: Semana siguiente
+    PREVIOUSMONTH: Mes anterior
+    NEXTMONTH: Mes siguiente
+    PREVIOUSWEEKEND: Fin de semana anterior
+    NEXTWEEKEND: Fin de semana siguiente
+    ALLDAY: Todo el dia
+  CalendarDateTime:
+    DATEFORMAT: mdy
+    TIMEFORMAT: 12
+    FIRSTDAYOFWEEK: Sábado
